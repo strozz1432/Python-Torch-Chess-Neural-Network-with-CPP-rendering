@@ -4,6 +4,8 @@
 
 This project uses a **Python-based Chess Neural Network** that plays against **Stockfish**. It's built for Linux, but if you want to run it on **Windows**, you’ll need to make a few changes.
 
+
+Add **Stockfish** to chess-engine/data
 *****************************************************
 ## Setup Instructions
 *****************************************************
