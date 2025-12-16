@@ -1,0 +1,4 @@
+Add a dataset to this folder
+
+You can find a lot of pgn files onn lichess, etc
+
